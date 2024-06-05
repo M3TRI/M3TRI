@@ -16,16 +16,45 @@
   <tr>
     <td align="center"  width="96">
       <a href="">
-        <img src="./UbuntuCoF.svg" width="48" height="48" alt="Ubuntu" />
+        <img src="./img/Ubuntu.svg" width="48" height="48" alt="Ubuntu" />
       </a>
       <br>Ubuntu
     </td>
     <td align="center"  width="96">
       <a href="">
-        <img src="./php.svg" width="48" height="48" alt="PH" />
+        <img src="./img/PHP.svg" width="48" height="48" alt="PHP" />
       </a>
       <br>PHP
     </td>
+    <td align="center"  width="96">
+      <a href="">
+        <img src="./img/Python.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center"  width="96">
+      <a href="">
+        <img src="./img/JavaScript.svg" width="48" height="48" alt="JS" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center"  width="96">
+      <a href="">
+        <img src="./img/OpenAI.svg" width="48" height="48" alt="GPT" />
+      </a>
+      <br>ChatGPT
+    </td>
+    <td align="center"  width="96">
+      <a href="">
+        <img src="./img/Git.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+      <a href="">
+        <img src="./img/Docker.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
   </tr>
 </table>
-<!-- links -->
