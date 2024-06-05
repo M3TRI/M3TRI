@@ -16,21 +16,21 @@
   <tr>
     <td align="center"  width="96">
       <a href="">
-        <img src="./img/Ubuntu.svg" width="48" height="48" alt="Ubuntu" />
-      </a>
-      <br>Ubuntu
-    </td>
-    <td align="center"  width="96">
-      <a href="">
         <img src="./img/PHP.svg" width="48" height="48" alt="PHP" />
       </a>
       <br>PHP
     </td>
     <td align="center"  width="96">
       <a href="">
-        <img src="./img/Python.svg" width="48" height="48" alt="Python" />
+        <img src="./img/HTML.svg" width="48" height="48" alt="HTML" />
       </a>
-      <br>Python
+      <br>HTML
+    </td>
+    <td align="center"  width="96">
+      <a href="">
+        <img src="./img/CSS.svg" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS
     </td>
     <td align="center"  width="96">
       <a href="">
@@ -40,9 +40,21 @@
     </td>
     <td align="center"  width="96">
       <a href="">
-        <img src="./img/OpenAI.svg" width="48" height="48" alt="GPT" />
+        <img src="./img/Python.svg" width="48" height="48" alt="Python" />
       </a>
-      <br>ChatGPT
+      <br>Python
+    </td>
+    <td align="center"  width="96">
+      <a href="">
+        <img src="./img/Ubuntu.svg" width="48" height="48" alt="Ubuntu" />
+      </a>
+      <br>Ubuntu
+    </td>
+    <td align="center"  width="96">
+      <a href="">
+        <img src="./img/Docker.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
     </td>
     <td align="center"  width="96">
       <a href="">
@@ -52,9 +64,9 @@
     </td>
     <td align="center"  width="96">
       <a href="">
-        <img src="./img/Docker.svg" width="48" height="48" alt="Docker" />
+        <img src="./img/OpenAI.svg" width="48" height="48" alt="GPT" />
       </a>
-      <br>Docker
+      <br>ChatGPT
     </td>
   </tr>
 </table>
