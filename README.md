@@ -22,7 +22,7 @@
     </td>
     <td align="center"  width="96">
       <a href="">
-        <img src="./php.svg" width="48" height="48" alt="Ubuntu" />
+        <img src="./php.svg" width="48" height="48" alt="PH" />
       </a>
       <br>PHP
     </td>
