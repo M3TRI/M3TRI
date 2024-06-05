@@ -16,7 +16,7 @@
   <tr>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="/ubuntu-original.svg" width="48" height="48" alt="Debian" />
+        <img src="/ubuntu-original.svg" width="48" height="48" alt="Ubuntu" />
       </a>
       <br>Ubuntu
     </td>
