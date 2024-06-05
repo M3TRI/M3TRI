@@ -15,10 +15,16 @@
 <table>
   <tr>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
+      <a href="">
         <img src="./UbuntuCoF.svg" width="48" height="48" alt="Ubuntu" />
       </a>
       <br>Ubuntu
+    </td>
+    <td align="center"  width="96">
+      <a href="">
+        <img src="./php.svg" width="48" height="48" alt="Ubuntu" />
+      </a>
+      <br>PHP
     </td>
   </tr>
 </table>
