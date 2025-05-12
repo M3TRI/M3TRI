@@ -45,12 +45,6 @@
       <br>Python
     </td>
     <td align="center"  width="96">
-      <a href="https://ubuntu.com/">
-        <img src="./img/Ubuntu.svg" width="48" height="48" alt="Ubuntu" />
-      </a>
-      <br>Ubuntu
-    </td>
-    <td align="center"  width="96">
       <a href="https://www.docker.com/">
         <img src="./img/Docker.svg" width="48" height="48" alt="Docker" />
       </a>
