@@ -56,11 +56,5 @@
       </a>
       <br>Git
     </td>
-    <td align="center"  width="96">
-      <a href="https://chatgpt.com/">
-        <img src="./img/OpenAI.svg" width="48" height="48" alt="GPT" />
-      </a>
-      <br>ChatGPT
-    </td>
   </tr>
 </table>
