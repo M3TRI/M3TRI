@@ -1,5 +1,5 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm M3TRI</h1>
-<h3 align="left">I do Web Programmer</h3>
+<h3 align="left">I do Web Developer & DevOps</h3>
 
 <p align="left">
   <a href="https://github.com/M3TRI/M3TRI">
