@@ -56,5 +56,11 @@
       </a>
       <br>Git
     </td>
+    <td align="center"  width="96">
+      <a href="https://kubernetes.io/">
+        <img src="./img/k8s.svg" width="48" height="48" alt="k8s" />
+      </a>
+      <br>Git
+    </td>
   </tr>
 </table>
