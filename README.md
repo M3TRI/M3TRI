@@ -60,7 +60,7 @@
       <a href="https://kubernetes.io/">
         <img src="./img/k8s.svg" width="48" height="48" alt="k8s" />
       </a>
-      <br>Git
+      <br>k8s
     </td>
   </tr>
 </table>
